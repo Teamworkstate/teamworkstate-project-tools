@@ -109,4 +109,4 @@ While ClickUp aims to be all-in-one, many teams pair it with:
 
 ---
 
-<p align="center"><a href="../../README.md">Back to Main Guide</a> | <a href="../comparison-tables/tool-comparison.md">View Tool Comparison</a></p>
+<p align="center"><a href="../README.md">Back to Main Guide</a> | <a href="../comparison-tables/tool-comparison.md">View Tool Comparison</a></p>
