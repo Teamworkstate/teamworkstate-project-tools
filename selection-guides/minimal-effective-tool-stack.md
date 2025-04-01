@@ -108,4 +108,4 @@ Start simple, establish consistent habits, and only add complexity when it truly
 
 ---
 
-<p align="center"><a href="../../README.md">Back to Main Guide</a> | <a href="../tool-profiles/notion.md">Explore Tool Profiles</a></p>
+<p align="center"><a href="../README.md">Back to Main Guide</a> | <a href="../tools-by-category/clickup.md">Explore Tool Profiles</a></p>
