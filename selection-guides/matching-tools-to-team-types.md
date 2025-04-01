@@ -179,7 +179,7 @@ The goal is finding the right balance of structure and flexibility that enables 
 
 ## Share Your Experience
 
-Have you found a tool combination that works particularly well for your team? Share your experience in the [Tools & Resources forum on Teamworkstate.com](https://teamworkstate.com/forum/tools-resources) to help other community members with their tool selection process.
+Have you found a tool combination that works particularly well for your team? Share your experience at [Teamworkstate.com](https://teamworkstate.com/) to help other community members with their tool selection process.
 
 ---
 
