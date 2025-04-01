@@ -183,4 +183,4 @@ Have you found a tool combination that works particularly well for your team? Sh
 
 ---
 
-<p align="center"><a href="../../README.md">Back to Main Guide</a> | <a href="../comparison-tables/tool-comparison.md">View Tool Comparison Table</a></p>
+<p align="center"><a href="../README.md">Back to Main Guide</a> | <a href="../comparison-tables/tool-comparison.md">View Tool Comparison Table</a></p>
