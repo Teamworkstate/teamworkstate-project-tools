@@ -32,7 +32,7 @@ This guide is one element of the broader Teamworkstate Digital Archipelago. Whil
 - Integration tips and challenges
 - Teamwork insights gained through tool usage
 
-Visit the [Teamworkstate.com](https://teamworkstate.com) to connect these objective guides with lived experiences.
+Visit [Teamworkstate.com](https://teamworkstate.com) to connect these objective guides with lived experiences.
 
 ### Contributing to This Resource
 
