@@ -79,14 +79,6 @@ ClickUp integrates with 1,000+ tools including:
 
 This makes it suitable as a central hub that connects to specialized tools in your workflow.
 
-## Screenshots
-
-![ClickUp Board View](https://clickup.com/blog/wp-content/uploads/2023/03/ClickUp-Board-View.png)
-*The Board View provides a Kanban-style visualization of tasks*
-
-![ClickUp Docs](https://clickup.com/blog/wp-content/uploads/2022/06/clickup-docs-sharing.png)
-*ClickUp Docs allows for collaborative document creation linked to tasks*
-
 ## Complementary Tools
 
 While ClickUp aims to be all-in-one, many teams pair it with:
