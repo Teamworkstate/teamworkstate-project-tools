@@ -1,7 +1,5 @@
 # ClickUp
 
-![ClickUp Logo](https://clickup.com/landing/images/clickup-logo.svg)
-
 **Information current as of [March 2025]**
 
 ## What is ClickUp?
