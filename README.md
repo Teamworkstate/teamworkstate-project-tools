@@ -45,15 +45,16 @@ To contribute:
 
 ## Navigation
 
-- [All-in-One Platforms](./tools-by-category/all-in-one/)
-- [Communication Tools](./tools-by-category/communication/)
-- [Task Management](./tools-by-category/task-management/)
-- [Document Collaboration](./tools-by-category/document-collaboration/)
-- [Design Collaboration](./tools-by-category/design-collaboration/)
-- [Code Collaboration](./tools-by-category/code-collaboration/)
+- [Tool Profiles](./tools-by-category/)
+  - Currently includes: [ClickUp](./tools-by-category/clickup.md)
+  - Future additions will cover: All-in-One Platforms, Communication Tools, Task Management, Document Collaboration, Design Collaboration, and Code Collaboration tools
 - [Comparison Tables](./comparison-tables/)
+  - [Tool Comparison Table](./comparison-tables/tool-comparison.md)
 - [Selection Guides](./selection-guides/)
+  - [Matching Tools to Team Types](./selection-guides/matching-tools-to-team-types.md)
+  - [Minimal Effective Tool Stack](./selection-guides/minimal-effective-tool-stack.md)
 - [Collaborative Workflows](./workflows/)
+  - Coming soon
 
 ---
 
