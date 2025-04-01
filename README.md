@@ -1,5 +1,9 @@
 # Project Management Tools Resource
 
+<p align="center">
+  <img src="./images/myimages/DotsBlueBackgroundTWS%20(Medium)%20(Small).png" alt="Teamworkstate Digital Archipelago Visualization" width="700">
+</p>
+
 ## Welcome to the Teamworkstate Project Management Tools Guide
 
 This resource serves as a navigational guide to the diverse landscape of project management and collaboration tools available across the digital world. As part of the Teamworkstate Digital Archipelago, this "island" provides structured information to help you make informed decisions about which tools might best support your collaborative work.
