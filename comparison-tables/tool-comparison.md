@@ -64,4 +64,4 @@ Remember that the best tool is the one your team will actually use consistently.
 
 ---
 
-<p align="center"><a href="../../README.md">Back to Main Guide</a> | <a href="../selection-guides/matching-tools-to-team-types.md">Tool Selection Guide</a></p>
+<p align="center"><a href="../README.md">Back to Main Guide</a> | <a href="../selection-guides/matching-tools-to-team-types.md">Tool Selection Guide</a></p>
