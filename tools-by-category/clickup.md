@@ -91,7 +91,6 @@ While ClickUp aims to be all-in-one, many teams pair it with:
 - [Official ClickUp Help Center](https://help.clickup.com/)
 - [ClickUp University](https://university.clickup.com/)
 - [ClickUp Template Center](https://clickup.com/templates)
-- [ClickUp YouTube Channel](https://www.youtube.com/c/Clickup)
 
 ## Version Information
 
