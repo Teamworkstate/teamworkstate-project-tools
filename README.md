@@ -63,4 +63,4 @@ To contribute:
 ---
 
 <p align="center">This resource is part of the <a href="https://teamworkstate.com">Teamworkstate</a> Digital Archipelago</p>
-<p align="center"><img src="https://teamworkstate.com/wp-content/uploads/2025/03/digital-archipelago-icon.png" width="100" alt="Digital Archipelago Icon"></p>
+<p align="center"><img src="./images/myimages/Islands_TWS%20(Small).png" width="250" alt="Digital Archipelago Visualization"></p>
