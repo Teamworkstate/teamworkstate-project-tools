@@ -88,7 +88,6 @@ Trello is often paired with:
 ## Resources
 
 - [Trello Help Center](https://help.trello.com/)
-- [Trello Blog](https://blog.trello.com/)
 - [Trello Templates](https://trello.com/templates)
 - [Trello Community](https://community.atlassian.com/t5/Trello/ct-p/trello)
 
