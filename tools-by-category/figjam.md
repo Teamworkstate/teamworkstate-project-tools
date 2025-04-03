@@ -1,11 +1,7 @@
----
-title: "FigJam"
-category: "Online Whiteboard / Visual Collaboration"
----
-
 # FigJam
 
 > **Tagline:** "FigJam is an online whiteboard for teams to brainstorm and ideate together."
+*   **Category:** [Design & Visual Collaboration](../category-overview/design-visual-collaboration-overview.md)
 
 ## 1. Overview & Core Functionality
 
