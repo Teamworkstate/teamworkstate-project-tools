@@ -17,13 +17,13 @@ Choose the path that best suits your current goal:
 **➡️ I'm looking for a specific *type* of tool:**
 
 *   Understand the category first, then explore tools:
-    *   **[🚀 Project & Task Management](./tools-by-category/project-task-management-overview.md):** What is it? Who needs it? *Organize work, track progress.*
-    *   **[💬 Communication & Real-time Collab](./tools-by-category/communication-collaboration-overview.md):** What is it? Who needs it? *Stay connected, discuss ideas.*
-    *   **[📄 Documents & Office Suites](./tools-by-category/documents-office-suites-overview.md):** What is it? Who needs it? *Create, share, and co-edit files.*
-    *   **[🎨 Design & Visual Collaboration](./tools-by-category/design-visual-collaboration-overview.md):** What is it? Who needs it? *Brainstorm visually, design interfaces.*
-    *   **[💻 Development & Code](./tools-by-category/development-code-overview.md):** What is it? Who needs it? *Manage code, collaborate on software.*
-    *   **[🤝 Customer Relationship & Marketing](./tools-by-category/crm-marketing-overview.md):** What is it? Who needs it? *Manage customer interactions, run campaigns.*
-    *   **[🔗 Automation & Integration](./tools-by-category/automation-integration-overview.md):** What is it? Who needs it? *Connect your apps, automate workflows.*
+    *   **[🚀 Project & Task Management](./category-overview/project-task-management-overview.md):** What is it? Who needs it? *Organize work, track progress.*
+    *   **[💬 Communication & Real-time Collab](./category-overview/communication-collaboration-overview.md):** What is it? Who needs it? *Stay connected, discuss ideas.*
+    *   **[📄 Documents & Office Suites](./category-overview/documents-office-suites-overview.md):** What is it? Who needs it? *Create, share, and co-edit files.*
+    *   **[🎨 Design & Visual Collaboration](./category-overview/design-visual-collaboration-overview.md):** What is it? Who needs it? *Brainstorm visually, design interfaces.*
+    *   **[💻 Development & Code](./category-overview/development-code-overview.md):** What is it? Who needs it? *Manage code, collaborate on software.*
+    *   **[🤝 Customer Relationship & Marketing](./category-overview/crm-marketing-overview.md):** What is it? Who needs it? *Manage customer interactions, run campaigns.*
+    *   **[🔗 Automation & Integration](./category-overview/automation-integration-overview.md):** What is it? Who needs it? *Connect your apps, automate workflows.*
 
 **➡️ I need help choosing or combining tools:**
 
@@ -58,29 +58,29 @@ Beyond specific tools, consider these aspects of effective digital collaboration
 
 For a comprehensive overview, explore the full list of tools profiled in this guide:
 
-*   **Project & Task Management:** ([Overview](./tools-by-category/project-task-management-overview.md))
+*   **Project & Task Management:** ([Overview](./category-overview/project-task-management-overview.md))
     *   [Asana](./tools-by-category/asana.md)
     *   [ClickUp](./tools-by-category/clickup.md)
     *   [Monday.com](./tools-by-category/monday-com.md)
     *   [Notion](./tools-by-category/notion.md)
     *   [Trello](./tools-by-category/trello.md)
-*   **Communication & Real-time Collaboration:** ([Overview](./tools-by-category/communication-collaboration-overview.md))
+*   **Communication & Real-time Collaboration:** ([Overview](./category-overview/communication-collaboration-overview.md))
     *   [Slack](./tools-by-category/slack.md)
     *   [Zoom](./tools-by-category/zoom.md)
-*   **Documents & Office Suites:** ([Overview](./tools-by-category/documents-office-suites-overview.md))
+*   **Documents & Office Suites:** ([Overview](./category-overview/documents-office-suites-overview.md))
     *   [Google Workspace](./tools-by-category/google-workspace.md)
     *   [Microsoft 365](./tools-by-category/microsoft-365.md)
-*   **Design & Visual Collaboration:** ([Overview](./tools-by-category/design-visual-collaboration-overview.md))
+*   **Design & Visual Collaboration:** ([Overview](./category-overview/design-visual-collaboration-overview.md))
     *   [Figma](./tools-by-category/figma.md)
     *   [FigJam](./tools-by-category/figjam.md)
     *   [Miro](./tools-by-category/miro.md)
-*   **Development & Code:** ([Overview](./tools-by-category/development-code-overview.md))
+*   **Development & Code:** ([Overview](./category-overview/development-code-overview.md))
     *   [GitHub](./tools-by-category/github.md)
-*   **Customer Relationship & Marketing:** ([Overview](./tools-by-category/crm-marketing-overview.md))
+*   **Customer Relationship & Marketing:** ([Overview](./category-overview/crm-marketing-overview.md))
     *   [HubSpot](./tools-by-category/hubspot.md)
     *   [Mailchimp](./tools-by-category/mailchimp.md)
     *   [Zendesk](./tools-by-category/zendesk.md)
-*   **Automation & Integration:** ([Overview](./tools-by-category/automation-integration-overview.md))
+*   **Automation & Integration:** ([Overview](./category-overview/automation-integration-overview.md))
     *   [Zapier](./tools-by-category/zapier.md)
 
 ---
