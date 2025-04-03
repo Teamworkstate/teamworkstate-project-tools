@@ -61,7 +61,7 @@ For a comprehensive overview, explore the full list of tools profiled in this gu
 *   **Project & Task Management:** ([Overview](./tools-by-category/project-task-management-overview.md))
     *   [Asana](./tools-by-category/asana.md)
     *   [ClickUp](./tools-by-category/clickup.md)
-    *   [Monday.com](./tools-by-category/monday.md)
+    *   [Monday.com](./tools-by-category/monday-com.md)
     *   [Notion](./tools-by-category/notion.md)
     *   [Trello](./tools-by-category/trello.md)
 *   **Communication & Real-time Collaboration:** ([Overview](./tools-by-category/communication-collaboration-overview.md))
