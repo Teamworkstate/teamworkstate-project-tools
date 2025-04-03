@@ -1,12 +1,8 @@
----
-title: "Monday.com"
-category: "All-in-One / Project Management"
----
-
 # Monday.com
 
 > **Tagline:** "A Work OS that powers teams to run projects and workflows with confidence."
-
+*   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
+  
 ## 1. Overview & Core Functionality
 
 *   **What it is:** Monday.com is a visual Work Operating System (Work OS) where teams can create custom workflow apps to plan, run, and track their projects, processes, and everyday work. It emphasizes visual dashboards, automation, and integrations.
