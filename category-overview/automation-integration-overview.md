@@ -11,5 +11,3 @@ Tools in this category specialize in connecting different software applications 
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Customer Relationship & Marketing](./crm-marketing-overview.md)
-*   [Next Category: N/A]
