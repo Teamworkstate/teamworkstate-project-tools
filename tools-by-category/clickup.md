@@ -1,12 +1,8 @@
----
-title: "ClickUp"
-category: "All-in-One / Project Management" 
----
-
 # ClickUp
 
 > **Tagline:** "One app to replace them all."
-
+*   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
+*   
 ## 1. Overview & Core Functionality
 
 *   **What it is:** ClickUp is a highly customizable productivity platform designed to centralize work across apps into one collaborative hub. It offers a wide range of features including tasks, docs, chat, goals, whiteboards, and more.
