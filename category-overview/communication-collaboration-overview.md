@@ -43,5 +43,3 @@ Choosing the right mix of communication tools helps ensure information flows eff
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Project & Task Management](./project-task-management-overview.md)
-*   [Next Category: Documents & Office Suites](./documents-office-suites-overview.md)
