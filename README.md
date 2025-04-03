@@ -16,14 +16,14 @@ Choose the path that best suits your current goal:
 
 **➡️ I'm looking for a specific *type* of tool:**
 
-*   Browse tools organized by their main job:
-    *   **[🚀 Project & Task Management](./tools-by-category/):** Tools like Asana, ClickUp, Monday, Notion, Trello. *Organize work, track progress.*
-    *   **[💬 Communication & Real-time Collab](./tools-by-category/):** Tools like Slack, Zoom. *Stay connected, discuss ideas.*
-    *   **[📄 Documents & Office Suites](./tools-by-category/):** Tools like Google Workspace, Microsoft 365. *Create, share, and co-edit files.*
-    *   **[🎨 Design & Visual Collaboration](./tools-by-category/):** Tools like Figma, FigJam, Miro. *Brainstorm visually, design interfaces.*
-    *   **[💻 Development & Code](./tools-by-category/):** Tools like GitHub. *Manage code, collaborate on software.*
-    *   **[🤝 Customer Relationship & Marketing](./tools-by-category/):** Tools like HubSpot, Mailchimp, Zendesk. *Manage customer interactions, run campaigns.*
-    *   **[🔗 Automation & Integration](./tools-by-category/):** Tools like Zapier. *Connect your apps, automate workflows.*
+*   Understand the category first, then explore tools:
+    *   **[🚀 Project & Task Management](./tools-by-category/project-task-management-overview.md):** What is it? Who needs it? *Organize work, track progress.*
+    *   **[💬 Communication & Real-time Collab](./tools-by-category/communication-collaboration-overview.md):** What is it? Who needs it? *Stay connected, discuss ideas.*
+    *   **[📄 Documents & Office Suites](./tools-by-category/documents-office-suites-overview.md):** What is it? Who needs it? *Create, share, and co-edit files.*
+    *   **[🎨 Design & Visual Collaboration](./tools-by-category/design-visual-collaboration-overview.md):** What is it? Who needs it? *Brainstorm visually, design interfaces.*
+    *   **[💻 Development & Code](./tools-by-category/development-code-overview.md):** What is it? Who needs it? *Manage code, collaborate on software.*
+    *   **[🤝 Customer Relationship & Marketing](./tools-by-category/crm-marketing-overview.md):** What is it? Who needs it? *Manage customer interactions, run campaigns.*
+    *   **[🔗 Automation & Integration](./tools-by-category/automation-integration-overview.md):** What is it? Who needs it? *Connect your apps, automate workflows.*
 
 **➡️ I need help choosing or combining tools:**
 
@@ -52,47 +52,36 @@ Beyond specific tools, consider these aspects of effective digital collaboration
 *   **Adapting Tools to Team Culture:** Choosing and configuring tools that align with how your team *actually* works.
 *   **Collaboration Beyond Tools:** Remembering that tools support, but don't replace, good communication and teamwork practices.
 
-*(Note: We can flesh this section out with links to specific articles, guides, or discussions within Teamworkstate once they exist).*
-
 ---
 
 ## Browse All Tools & Categories
 
 For a comprehensive overview, explore the full list of tools profiled in this guide:
 
-*   **Project & Task Management:**
+*   **Project & Task Management:** ([Overview](./tools-by-category/project-task-management-overview.md))
     *   [Asana](./tools-by-category/asana.md)
     *   [ClickUp](./tools-by-category/clickup.md)
     *   [Monday.com](./tools-by-category/monday.md)
     *   [Notion](./tools-by-category/notion.md)
     *   [Trello](./tools-by-category/trello.md)
-    *   *[Add others as documented]*
-*   **Communication & Real-time Collaboration:**
+*   **Communication & Real-time Collaboration:** ([Overview](./tools-by-category/communication-collaboration-overview.md))
     *   [Slack](./tools-by-category/slack.md)
     *   [Zoom](./tools-by-category/zoom.md)
-    *   *[Add others as documented]*
-*   **Documents & Office Suites:**
+*   **Documents & Office Suites:** ([Overview](./tools-by-category/documents-office-suites-overview.md))
     *   [Google Workspace](./tools-by-category/google-workspace.md)
     *   [Microsoft 365](./tools-by-category/microsoft-365.md)
-    *   *[Add others as documented]*
-*   **Design & Visual Collaboration:**
+*   **Design & Visual Collaboration:** ([Overview](./tools-by-category/design-visual-collaboration-overview.md))
     *   [Figma](./tools-by-category/figma.md)
     *   [FigJam](./tools-by-category/figjam.md)
     *   [Miro](./tools-by-category/miro.md)
-    *   *[Add others as documented]*
-*   **Development & Code:**
+*   **Development & Code:** ([Overview](./tools-by-category/development-code-overview.md))
     *   [GitHub](./tools-by-category/github.md)
-    *   *[Add others as documented]*
-*   **Customer Relationship & Marketing:**
+*   **Customer Relationship & Marketing:** ([Overview](./tools-by-category/crm-marketing-overview.md))
     *   [HubSpot](./tools-by-category/hubspot.md)
     *   [Mailchimp](./tools-by-category/mailchimp.md)
     *   [Zendesk](./tools-by-category/zendesk.md)
-    *   *[Add others as documented]*
-*   **Automation & Integration:**
+*   **Automation & Integration:** ([Overview](./tools-by-category/automation-integration-overview.md))
     *   [Zapier](./tools-by-category/zapier.md)
-    *   *[Add others as documented]*
-
-*(Note: This section provides direct links to every tool profile, organized by category).*
 
 ---
 
@@ -104,7 +93,6 @@ This resource aims to help you:
 *   Identify cost-effective ways for teams to start (especially free tiers).
 *   Match tools to your team's unique needs and workflows.
 *   Build a foundation for a "Minimal Effective Tool Stack."
-
 ---
 
 ## Connect with the Community
@@ -116,8 +104,6 @@ This guide supports the [Teamworkstate.com](https://teamworkstate.com/) communit
 ## Contributing
 
 This is a living document! Contributions, suggestions, and corrections are welcome. Please open an issue or submit a pull request.
-
----
 
 <p align="center">This resource is part of the <a href="https://teamworkstate.com">Teamworkstate</a> Digital Archipelago</p>
 <p align="center"><img src="./images/myimages/Islands_TWS%20(Small).png" width="250" alt="Digital Archipelago Visualization"></p>
