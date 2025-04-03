@@ -1,12 +1,8 @@
----
-title: "Mailchimp"
-category: "Email Marketing & Automation Platform"
----
-
 # Mailchimp
 
 > **Tagline:** Look like the expert you are. (Or similar variations focusing on marketing/growth)
-
+*   **Category:** [Customer Relationship & Marketing](../category-overview/customer-relationship-management-overview.md)
+*   
 ## 1. Overview & Core Functionality
 
 *   **What it is:** Mailchimp is primarily an email marketing and automation platform designed to help businesses manage mailing lists, create email campaigns, automate marketing messages, and analyze campaign performance. It has expanded to include features for landing pages, digital ads, social posting, postcards, and basic CRM functionality.
