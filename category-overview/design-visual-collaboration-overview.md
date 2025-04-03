@@ -43,5 +43,3 @@ These tools help teams align on visual direction, iterate faster, and ensure tha
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Documents & Office Suites](./documents-office-suites-overview.md)
-*   [Next Category: Development & Code](./development-code-overview.md)
