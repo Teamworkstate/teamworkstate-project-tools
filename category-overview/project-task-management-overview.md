@@ -36,18 +36,16 @@ Without dedicated tools, managing projects often relies on scattered emails, spr
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
-
-*   **[Asana](./asana.md)** - *[Brief one-sentence description]*
-*   **[ClickUp](./clickup.md)** - *[Brief one-sentence description]*
-*   **[GitHub Project Boards/Issues](./github-projects-issues.md)** - *[Brief one-sentence description]*
-*   **[Jira](./jira.md)** - *[Brief one-sentence description]*
-*   **[Monday.com](./monday-com.md)** - *[Brief one-sentence description]*
-*   **[Notion (for Task/Project Management)](./notion.md)** - *[Brief one-sentence description]*
-*   **[Trello](./trello.md)** - *[Brief one-sentence description]*
-*   *[Add others as needed]*
+*   [Asana](../tools-by-category/asana.md) - A popular project management tool focused on task tracking, workflow visualization (List, Board, Timeline, Calendar), and team collaboration.
+*   [ClickUp](../tools-by-category/clickup.md) - An all-in-one productivity platform offering customizable task management, docs, goals, whiteboards, and various views to suit different workflows.
+*   [Monday.com](../tools-by-category/monday-com.md) - A flexible Work OS platform that allows teams to build custom workflows for project management, CRM, operations, and more using visual boards and automations.
+*   [Notion](../tools-by-category/notion.md) - A versatile workspace combining notes, docs, wikis, and project management, enabling highly customized task tracking and knowledge base integration.
+*   [Trello](../tools-by-category/trello.md) - A simple, visual, card-based project management tool using boards, lists, and cards, ideal for straightforward task tracking and Kanban-style workflows.
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[➡️ Next Category: Communication & Collaboration](./../communication-collaboration/communication-collaboration-overview.md)** *(Link TBC)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: N/A]
+*   [Next Category: Communication & Real-time Collaboration](./communication-collaboration-overview.md)
