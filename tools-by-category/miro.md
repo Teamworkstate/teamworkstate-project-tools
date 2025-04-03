@@ -1,11 +1,7 @@
----
-title: "Miro"
-category: "Online Whiteboard / Visual Collaboration"
----
-
 # Miro
 
 > **Tagline:** "The online collaborative whiteboard platform to bring teams together, anytime, anywhere."
+*   **Category:** [Design & Visual Collaboration](../category-overview/design-visual-collaboration-overview.md)
 
 ## 1. Overview & Core Functionality
 
