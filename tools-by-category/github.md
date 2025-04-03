@@ -1,7 +1,7 @@
 # GitHub
 
 > **Tagline:** Where the world builds software.
-*   **Category:** [Development & Code](../category-overview/development-code-overview.md)
+*   **Category:** [Development & Code](../category-overview/development-version-control-overview.md)
 
 ## 1. Overview & Core Functionality
 
