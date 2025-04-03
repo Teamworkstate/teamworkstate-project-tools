@@ -47,5 +47,3 @@ Without dedicated tools, managing projects often relies on scattered emails, spr
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: N/A]
-*   [Next Category: Communication & Real-time Collaboration](./communication-collaboration-overview.md)
