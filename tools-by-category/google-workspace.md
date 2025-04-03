@@ -1,11 +1,7 @@
----
-title: "Google Workspace"
-category: "Document & Office Suites"
----
-
 # Google Workspace
 
 > **Tagline:** Everything you need to get anything done, now in one place.
+*   **Category:** [Documents & Office Suites](../category-overview/documents-office-suites-overview.md)
 
 ## 1. Overview & Core Functionality
 
