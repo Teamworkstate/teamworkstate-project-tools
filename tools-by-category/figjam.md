@@ -74,6 +74,6 @@ category: "Online Whiteboard / Visual Collaboration"
 
 ---
 
-*Last Updated: April 4, 2025*
+*Last Updated: April 3, 2025*
 
 <p align="center"><a href="../README.md">Back to Main Guide</a> | <a href="../comparison-tables/tool-comparison.md">View Tool Comparison</a></p>
