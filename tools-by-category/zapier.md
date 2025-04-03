@@ -1,6 +1,6 @@
 # Zapier
 
-**Information current as of May 2024**
+**Information current as of April 2025**
 
 ## What is Zapier?
 
@@ -79,7 +79,7 @@ While Zapier connects tools, it relies on the existence and functionality of tho
 
 ## Version Information
 
-- Profile Last Updated: May 23, 2024
+- Profile Last Updated: April 2, 2025
 
 ---
 
