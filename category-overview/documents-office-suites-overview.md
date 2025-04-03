@@ -35,12 +35,17 @@ Without effective document collaboration tools, teams often struggle with multip
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
+*   [Google Workspace](../tools-by-category/google-workspace.md) - An integrated suite of cloud-based collaboration and productivity tools, including Gmail, Docs, Sheets, Slides, Drive, and Meet.
+*   [Microsoft 365](../tools-by-category/microsoft-365.md) - A comprehensive suite of productivity apps and cloud services, including Outlook, Word, Excel, PowerPoint, Teams, and OneDrive.
+*   *[Add others as needed, e.g., standalone document tools if applicable]*
 
-*   **[Google Workspace (Docs, Sheets, Slides, Drive)](./google-workspace-docs.md)** - *[Brief one-sentence description]*
-*   **[Microsoft 365 (Word, Excel, PowerPoint, OneDrive, SharePoint)](./microsoft-365.md)** - *[Brief one-sentence description]*
-*   **[Notion (for Documents & Notes)](./notion-docs.md)** - *[Brief one-sentence description]*
-*   *[Add others like Dropbox Paper, Coda if relevant]*
+---
+
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: Communication & Real-time Collaboration](./communication-collaboration-overview.md)
+*   [Next Category: Design & Visual Collaboration](./design-visual-collaboration-overview.md)
 
 ---
 
