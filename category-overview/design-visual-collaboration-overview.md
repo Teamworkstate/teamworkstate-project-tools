@@ -34,16 +34,14 @@ These tools help teams align on visual direction, iterate faster, and ensure tha
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
-
-*   **[Canva](./canva.md)** - *[Brief one-sentence description]*
-*   **[Figma / FigJam](./figma.md)** - *[Brief one-sentence description]*
-*   **[Lucidchart / Lucidspark](./lucid.md)** - *[Brief one-sentence description]*
-*   **[Miro](./miro.md)** - *[Brief one-sentence description]*
-*   *[Add others like Adobe Creative Cloud tools, Sketch, InVision if relevant]*
+*   [Figma](../tools-by-category/figma.md) - A collaborative interface design tool for creating, prototyping, and sharing designs for websites, apps, and other digital products.
+*   [FigJam](../tools-by-category/figjam.md) - An online whiteboard tool from Figma, designed for brainstorming, diagramming, and collaborative ideation sessions.
+*   [Miro](../tools-by-category/miro.md) - A versatile online collaborative whiteboard platform for brainstorming, mind mapping, workshops, diagramming, and project planning.
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[⬅️ Previous Category: Documents & Office Suites](./../documents-office-suites/documents-office-suites-overview.md)** *(Link TBC)*
-**[➡️ Next Category: Development & Version Control](./../development-version-control/development-version-control-overview.md)** *(Link TBC)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: Documents & Office Suites](./documents-office-suites-overview.md)
+*   [Next Category: Development & Code](./development-code-overview.md)
