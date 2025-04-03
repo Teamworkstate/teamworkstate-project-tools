@@ -1,11 +1,7 @@
----
-title: "Slack"
-category: "Team Communication & Messaging"
----
-
 # Slack
 
 > **Tagline:** Where work happens.
+*   **Category:** [Communication & Real-time Collaboration](../category-overview/communication-collaboration-overview.md)
 
 ## 1. Overview & Core Functionality
 
