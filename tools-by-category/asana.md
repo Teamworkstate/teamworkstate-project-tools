@@ -1,7 +1,7 @@
 # Asana
-*   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
 
 > **Tagline:** "Work on big ideas, without the busywork." (Commonly used tagline, though variations exist)
+*   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
 
 ## 1. Overview & Core Functionality
 
