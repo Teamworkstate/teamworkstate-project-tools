@@ -46,5 +46,3 @@ By centralizing customer data and interaction logs, CRMs empower teams to work t
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Development & Code](./development-code-overview.md)
-*   [Next Category: Automation & Integration](./automation-integration-overview.md)
