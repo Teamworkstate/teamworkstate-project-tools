@@ -1,11 +1,7 @@
----
-title: "GitHub"
-category: "Code Hosting & Developer Platform"
----
-
 # GitHub
 
 > **Tagline:** Where the world builds software.
+*   **Category:** [Development & Code](../category-overview/development-code-overview.md)
 
 ## 1. Overview & Core Functionality
 
