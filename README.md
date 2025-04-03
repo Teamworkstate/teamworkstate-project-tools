@@ -22,7 +22,7 @@ Choose the path that best suits your current goal:
     *   **[📄 Documents & Office Suites](./category-overview/documents-office-suites-overview.md):** What is it? Who needs it? *Create, share, and co-edit files.*
     *   **[🎨 Design & Visual Collaboration](./category-overview/design-visual-collaboration-overview.md):** What is it? Who needs it? *Brainstorm visually, design interfaces.*
     *   **[💻 Development & Code](./category-overview/development-version-control-overview.md):** What is it? Who needs it? *Manage code, collaborate on software.*
-    *   **[🤝 Customer Relationship & Marketing](./category-overview/crm-marketing-overview.md):** What is it? Who needs it? *Manage customer interactions, run campaigns.*
+    *   **[🤝 Customer Relationship & Marketing](./category-overview/customer-relationship-management-overview.md):** What is it? Who needs it? *Manage customer interactions, run campaigns.*
     *   **[🔗 Automation & Integration](./category-overview/automation-integration-overview.md):** What is it? Who needs it? *Connect your apps, automate workflows.*
 
 **➡️ I need help choosing or combining tools:**
@@ -76,7 +76,7 @@ For a comprehensive overview, explore the full list of tools profiled in this gu
     *   [Miro](./tools-by-category/miro.md)
 *   **Development & Code:** ([Overview](./category-overview/development-version-control-overview.md))
     *   [GitHub](./tools-by-category/github.md)
-*   **Customer Relationship & Marketing:** ([Overview](./category-overview/crm-marketing-overview.md))
+*   **Customer Relationship & Marketing:** ([Overview](./category-overview/customer-relationship-management-overview.md))
     *   [HubSpot](./tools-by-category/hubspot.md)
     *   [Mailchimp](./tools-by-category/mailchimp.md)
     *   [Zendesk](./tools-by-category/zendesk.md)
