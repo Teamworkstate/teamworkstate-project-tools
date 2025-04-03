@@ -1,12 +1,8 @@
----
-title: "Zendesk"
-category: "Customer Service & CRM Platform"
----
-
 # Zendesk
 
 > **Tagline:** Champions of customer service. (Or variations focusing on service/support)
-
+*   **Category:** [Customer Relationship & Marketing](../category-overview/customer-relationship-management-overview.md)
+  
 ## 1. Overview & Core Functionality
 
 *   **What it is:** Zendesk is a service-first CRM company that builds software designed to improve customer relationships. Its core offerings center around customer support ticketing, help desk software, and customer communications management across various channels (email, chat, phone, social media, messaging). It also includes sales CRM capabilities (Zendesk Sell).
