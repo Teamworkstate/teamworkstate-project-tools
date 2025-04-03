@@ -80,5 +80,6 @@ The goal is to find tools that reduce friction and enhance your team's natural w
 
 ---
 
-**[⬅️ Back to Main Guide](./../README.md)**
-**[⬅️ Previous Selection Guide: Minimal Effective Tool Stack](./minimal-effective-tool-stack.md)**
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
