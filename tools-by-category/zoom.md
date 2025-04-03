@@ -1,6 +1,6 @@
 # Zoom
 
-**Information current as of May 2024**
+**Information current as of April 2025**
 
 ## What is Zoom?
 
@@ -103,7 +103,7 @@ Zoom works well alongside:
 
 ## Version Information
 
-- Profile Last Updated: May 23, 2024
+- Profile Last Updated: April 2, 2025
 
 ---
 
