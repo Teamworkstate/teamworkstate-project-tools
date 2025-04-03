@@ -1,11 +1,7 @@
----
-title: "Notion"
-category: "Knowledge Management / Workspace / Light Project Management"
----
-
 # Notion
 
 > **Tagline:** "The connected workspace where better, faster work happens."
+> *   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
 
 ## 1. Overview & Core Functionality
 
