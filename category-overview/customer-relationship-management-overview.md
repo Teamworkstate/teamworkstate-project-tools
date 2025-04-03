@@ -37,15 +37,14 @@ By centralizing customer data and interaction logs, CRMs empower teams to work t
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
-
-*   **[Salesforce](./salesforce.md)** - *[Brief one-sentence description]*
-*   **[HubSpot CRM](./hubspot.md)** - *[Brief one-sentence description]*
-*   **[Zoho CRM](./zoho.md)** - *[Brief one-sentence description]*
-*   *[Add others like Pipedrive, Copper, Microsoft Dynamics 365 Sales if relevant]*
+*   [HubSpot](../tools-by-category/hubspot.md) - An all-in-one platform providing CRM, marketing automation, sales, content management, and customer service tools.
+*   [Mailchimp](../tools-by-category/mailchimp.md) - A popular email marketing and automation platform, primarily focused on creating, sending, and analyzing email campaigns.
+*   [Zendesk](../tools-by-category/zendesk.md) - A customer service platform focused on support ticketing, help desk management, and customer communication across multiple channels.
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[⬅️ Previous Category: Development & Version Control](./../development-version-control/development-version-control-overview.md)** *(Link TBC)*
-**[➡️ Next Category: Note-Taking & Knowledge Management](./../note-taking-knowledge-management/note-taking-knowledge-management-overview.md)** *(Link TBC)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: Development & Code](./development-code-overview.md)
+*   [Next Category: Automation & Integration](./automation-integration-overview.md)
