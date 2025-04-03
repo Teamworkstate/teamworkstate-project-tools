@@ -50,6 +50,7 @@ This resource covers a range of tools and concepts to support your team's collab
 
 *   **Design & Visual Collaboration:**
     *   [Figma](./tools-by-category/figma.md) - Interface design & prototyping
+    *   [FigJam](./tool-profiles/figjam.md) - Figma's online whiteboard for team ideation and brainstorming.
     *   [Miro](./tools-by-category/miro.md) - Online collaborative whiteboard
 
 *   **Development & Code:**
