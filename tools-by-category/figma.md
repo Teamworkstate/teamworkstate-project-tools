@@ -1,11 +1,7 @@
----
-title: "Figma"
-category: "Design & Prototyping"
----
-
 # Figma
 
 > **Tagline:** Nothing great is made alone.
+*   **Category:** [Design & Visual Collaboration](../category-overview/design-visual-collaboration-overview.md)
 
 ## 1. Overview & Core Functionality
 
