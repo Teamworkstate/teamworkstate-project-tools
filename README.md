@@ -47,17 +47,51 @@ To contribute:
 2. Propose new tool profiles using the template
 3. Share comparison insights or workflow recommendations
 
-## Navigation
+## Explore Tools & Guides
 
-- Currently includes: [ClickUp](./tools-by-category/clickup.md), [Slack](./tools-by-category/slack.md), [Notion](./tools-by-category/notion.md), [Trello](./tools-by-category/trello.md), [Miro](./tools-by-category/miro.md), [Google Workspace](./tools-by-category/google-workspace.md), [Microsoft 365](./tools-by-category/microsoft-365.md), [Asana](./tools-by-category/asana.md), [Monday.com](./tools-by-category/monday-com.md), [GitHub](./tools-by-category/github.md), [Figma](./tools-by-category/figma.md), [HubSpot](./tools-by-category/hubspot.md), [Mailchimp](./tools-by-category/mailchimp.md), [Zoom](./tools-by-category/zoom.md), [Zapier](./tools-by-category/zapier.md), [Zendesk](./tools-by-category/zendesk.md)
-  - Future additions will cover: All-in-One Platforms, Communication Tools, Task Management, Document Collaboration, Design Collaboration, and Code Collaboration tools
-- [Comparison Tables](./comparison-tables/)
-  - [Tool Comparison Table](./comparison-tables/tool-comparison.md)
-- [Selection Guides](./selection-guides/)
-  - [Matching Tools to Team Types](./selection-guides/matching-tools-to-team-types.md)
-  - [Minimal Effective Tool Stack](./selection-guides/minimal-effective-tool-stack.md)
-- [Collaborative Workflows](./workflows/)
-  - Coming soon
+This resource covers a range of tools and concepts to support your team's collaboration journey. Dive into specific tools or use our guides to help you choose.
+
+**Tool Profiles by Primary Function:**
+
+*   **All-in-One / Project Management:**
+    *   [Asana](./tools-by-category/asana.md) - Task & project focus
+    *   [ClickUp](./tools-by-category/clickup.md) - Highly customizable workspace
+    *   [Monday.com](./tools-by-category/monday-com.md) - Visual work OS
+    *   [Notion](./tools-by-category/notion.md) - Connected docs & databases
+    *   [Trello](./tools-by-category/trello.md) - Simple visual boards
+
+*   **Communication & Real-time Collaboration:**
+    *   [Slack](./tools-by-category/slack.md) - Channel-based messaging
+    *   [Zoom](./tools-by-category/zoom.md) - Video conferencing
+
+*   **Document & Office Suites:**
+    *   [Google Workspace](./tools-by-category/google-workspace.md) - Cloud-based productivity suite
+    *   [Microsoft 365](./tools-by-category/microsoft-365.md) - Integrated apps & services
+
+*   **Design & Visual Collaboration:**
+    *   [Figma](./tools-by-category/figma.md) - Interface design & prototyping
+    *   [Miro](./tools-by-category/miro.md) - Online collaborative whiteboard
+
+*   **Development & Code:**
+    *   [GitHub](./tools-by-category/github.md) - Code hosting & version control
+
+*   **Customer Relationship & Marketing:**
+    *   [HubSpot](./tools-by-category/hubspot.md) - CRM & marketing platform
+    *   [Mailchimp](./tools-by-category/mailchimp.md) - Email marketing & automation
+    *   [Zendesk](./tools-by-category/zendesk.md) - Customer service & support
+
+*   **Automation & Integration:**
+    *   [Zapier](./tools-by-category/zapier.md) - Connects different web apps
+
+**Decision Support:**
+
+*   **Comparison Tables:**
+    *   [Tool Comparison Overview](./comparison-tables/tool-comparison.md) - Feature & pricing summary
+*   **Selection Guides:**
+    *   [Matching Tools to Team Types](./selection-guides/matching-tools-to-team-types.md) - Find tools for your team style
+    *   [Building a Minimal Effective Tool Stack](./selection-guides/minimal-effective-tool-stack.md) - Combine tools efficiently
+*   **Collaborative Workflows:** *(Coming Soon)*
+    *   Examples of how to integrate tools for specific team processes.
 
 ---
 
