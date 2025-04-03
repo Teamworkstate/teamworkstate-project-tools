@@ -35,18 +35,13 @@ Choosing the right mix of communication tools helps ensure information flows eff
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
-
-*   **[Discord](./discord.md)** - *[Brief one-sentence description]*
-*   **[Google Workspace (Chat, Meet)](./google-workspace.md)** - *[Brief one-sentence description]*
-*   **[Loom](./loom.md)** - *[Brief one-sentence description]*
-*   **[Microsoft Teams](./microsoft-teams.md)** - *[Brief one-sentence description]*
-*   **[Slack](./slack.md)** - *[Brief one-sentence description]*
-*   **[Zoom](./zoom.md)** - *[Brief one-sentence description]*
-*   *[Add others as needed]*
+*   [Slack](../tools-by-category/slack.md) - A channel-based messaging platform for teams, facilitating real-time communication, file sharing, and integration with other tools.
+*   [Zoom](../tools-by-category/zoom.md) - A leading video conferencing platform for meetings, webinars, chat, and collaboration across devices.
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[⬅️ Previous Category: Project & Task Management](./../project-task-management/project-task-management-overview.md)** *(Link TBC)*
-**[➡️ Next Category: Documents & Office Suites](./../documents-office-suites/documents-office-suites-overview.md)** *(Link TBC)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: Project & Task Management](./project-task-management-overview.md)
+*   [Next Category: Documents & Office Suites](./documents-office-suites-overview.md)
