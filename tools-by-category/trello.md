@@ -1,11 +1,7 @@
----
-title: "Trello"
-category: "Kanban / Project Management"
----
-
 # Trello
 
 > **Tagline:** "Trello helps teams move work forward."
+> *   **Category:** [Project & Task Management](../category-overview/project-task-management-overview.md)
 
 ## 1. Overview & Core Functionality
 
