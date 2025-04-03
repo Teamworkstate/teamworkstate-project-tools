@@ -38,14 +38,12 @@ They provide the structure and process needed for teams, regardless of size or l
 
 ## Tools in this Category:
 
-*(Note: Links will be added as individual tool pages are created)*
-
-*   **[GitHub](./github.md)** - *[Brief one-sentence description]*
-*   **[GitLab](./gitlab.md)** - *[Brief one-sentence description]*
-*   *[Optionally mention integrations like Jira, VS Code, Jenkins if individual pages are planned]*
+*   [GitHub](../tools-by-category/github.md) - A leading platform for version control using Git, code hosting, collaboration, issue tracking, and project management primarily for software development.
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[⬅️ Previous Category: Design & Visual Collaboration](./../design-visual-collaboration/design-visual-collaboration-overview.md)** *(Link TBC)*
-**[➡️ Next Category: Customer Relationship Management (CRM)](./../customer-relationship-management/customer-relationship-management-overview.md)** *(Link TBC)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
+*   [Previous Category: Design & Visual Collaboration](./design-visual-collaboration-overview.md)
+*   [Next Category: Customer Relationship & Marketing](./crm-marketing-overview.md)
