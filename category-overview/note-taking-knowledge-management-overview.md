@@ -47,6 +47,6 @@ Effective knowledge management ensures that valuable information is retained, ac
 
 ---
 
-**[⬅️ Back to Main Guide](./../../README.md)**
-**[⬅️ Previous Category: Customer Relationship Management (CRM)](./../customer-relationship-management/customer-relationship-management-overview.md)** *(Link TBC)*
-**[➡️ Next Category: Automation & Integration](./../automation-integration/automation-integration-overview.md)** *(Link TBC, or indicate end/loop back)*
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
