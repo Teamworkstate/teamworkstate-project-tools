@@ -1,11 +1,7 @@
----
-title: "HubSpot"
-category: "CRM, Marketing, Sales, Service, CMS & Operations Platform"
----
-
 # HubSpot
 
 > **Tagline:** Grow Better With HubSpot.
+*   **Category:** [Customer Relationship & Marketing](../category-overview/crm-marketing-overview.md)
 
 ## 1. Overview & Core Functionality
 
