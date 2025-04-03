@@ -45,5 +45,3 @@ They provide the structure and process needed for teams, regardless of size or l
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Design & Visual Collaboration](./design-visual-collaboration-overview.md)
-*   [Next Category: Customer Relationship & Marketing](./crm-marketing-overview.md)
