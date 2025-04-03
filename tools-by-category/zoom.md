@@ -1,11 +1,7 @@
----
-title: "Zoom"
-category: "Video Conferencing & Communication"
----
-
 # Zoom
 
 > **Tagline:** One platform to connect.
+> *   **Category:** [Communication & Real-time Collaboration](../category-overview/communication-collaboration-overview.md)
 
 ## 1. Overview & Core Functionality
 
