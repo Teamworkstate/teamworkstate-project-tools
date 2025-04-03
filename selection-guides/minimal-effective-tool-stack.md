@@ -63,5 +63,6 @@ A METS isn't static. As your team grows or your needs change, you might need to 
 
 ---
 
-**[⬅️ Back to Main Guide](./../README.md)**
-**[➡️ Next Selection Guide: Matching Tools to Team Types](./matching-tools-to-team-types.md)**
+**Navigation:**
+
+*   [Back to Main Guide](../README.md)
