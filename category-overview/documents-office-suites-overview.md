@@ -44,8 +44,6 @@ Without effective document collaboration tools, teams often struggle with multip
 **Navigation:**
 
 *   [Back to Main Guide](../README.md)
-*   [Previous Category: Communication & Real-time Collaboration](./communication-collaboration-overview.md)
-*   [Next Category: Design & Visual Collaboration](./design-visual-collaboration-overview.md)
 
 ---
 
