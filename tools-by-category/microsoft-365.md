@@ -1,11 +1,7 @@
----
-title: "Microsoft 365"
-category: "Document & Office Suites"
----
-
 # Microsoft 365
 
 > **Tagline:** Your productivity cloud across work and life.
+*   **Category:** [Documents & Office Suites](../category-overview/documents-office-suites-overview.md)
 
 ## 1. Overview & Core Functionality
 
