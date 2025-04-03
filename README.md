@@ -50,7 +50,7 @@ To contribute:
 ## Navigation
 
 - [Tool Profiles](./tools-by-category/)
-- Currently includes: [ClickUp](./tools-by-category/clickup.md), [Slack](./tools-by-category/slack.md), [Notion](./tools-by-category/notion.md), [Trello](./tools-by-category/trello.md), [Miro](./tools-by-category/miro.md), [Google Workspace](./tools-by-category/google-workspace.md), [Microsoft 365](./tools-by-category/microsoft-365.md), [Asana](./tools-by-category/asana.md), [Monday.com](./tools-by-category/monday-com.md), [GitHub](./tools-by-category/github.md)
+○ Currently includes: [ClickUp](./tools-by-category/clickup.md), [Slack](./tools-by-category/slack.md), [Notion](./tools-by-category/notion.md), [Trello](./tools-by-category/trello.md), [Miro](./tools-by-category/miro.md), [Google Workspace](./tools-by-category/google-workspace.md), [Microsoft 365](./tools-by-category/microsoft-365.md), [Asana](./tools-by-category/asana.md), [Monday.com](./tools-by-category/monday-com.md), [GitHub](./tools-by-category/github.md), [Figma](./tools-by-category/figma.md)
   - Future additions will cover: All-in-One Platforms, Communication Tools, Task Management, Document Collaboration, Design Collaboration, and Code Collaboration tools
 - [Comparison Tables](./comparison-tables/)
   - [Tool Comparison Table](./comparison-tables/tool-comparison.md)
