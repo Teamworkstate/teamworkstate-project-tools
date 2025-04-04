@@ -1,10 +1,8 @@
-# Project Management Tools Resource
+# Teamworkstate Guide to Collaboration Tools
 
 <p align="center">
   <img src="./images/myimages/DotsBlueBackgroundTWS%20(Medium)%20(Small).png" alt="Teamworkstate Digital Archipelago Visualization" width="700">
 </p>
-
-# Teamworkstate Guide to Collaboration Tools
 
 **Find the right digital tools to help your team work better together.** This guide breaks down popular options, focusing on features, free plans, and how they fit different team needs.
 
